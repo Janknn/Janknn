@@ -1,7 +1,7 @@
 ### Salut👋, moi c'est Jérémy Pelchat
 
 
-- 🧑‍💻 Je suis actuellement a l'IIM en A2 dans l'ace Coding Digitial & Innovations
+- 🧑‍💻 Je suis actuellement a l'IIM en A2 dans l'axe Coding Digitial & Innovations
 - 
 
 <!---
