@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jérémy Pelchat</h1>
 <h3 align="center">A student in A2 Coding & Digital Innovation at IIM from France</h3>
 
-- 🌱 I’m currently learning **how to use Github**
+- 🔭 I’m currently working on my Portfolio
 
-- 👨‍💻 I'm interrested [in front-end and a little by back-end](in front-end and a little by back-end)
+- 🌱 I’m currently learning Wordpress
+
+- 👨‍💻 I'm interrested in front-end
 
 - 📫 How to reach me **jeremy.pelchat@edu.devinci.fr**
 
