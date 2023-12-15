@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Portfolio
 
-- 🌱 I’m currently learning Wordpress
+- 🌱 I’m currently learning Anfular
 
 - 👨‍💻 I'm interrested in front-end
 
