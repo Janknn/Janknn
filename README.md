@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jérémy Pelchat</h1>
-<h3 align="center">A student in A2 Coding & Digital Innovation at IIM from France</h3>
+<h3 align="center">A student in A3 Coding & Digital Innovation at IIM from France</h3>
 
 - 🔭 I’m currently working on my Portfolio
 
-- 🌱 I’m currently learning Anfular
-
-- 👨‍💻 I'm interrested in front-end
+- 🌱 I’m currently learning Angular
 
 - 📫 How to reach me **jeremy.pelchat@edu.devinci.fr**
 
